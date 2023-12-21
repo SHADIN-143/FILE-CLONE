@@ -1,19 +1,30 @@
 #FILE-CLONE 
+```python
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Assalamualaikum+Sir+😇;I'M+SHADIN+HERE;Please+Follow+My+GitHub+Account;Today+I+will+tell+you+;FILE+CLONING;BD+OLD+ID;So+Let's+Enjoy+Everybody+🔥+🐉)](https://git.io/typing-svg)
-<img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
+pkg update
 
-![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
+pkg upgrade
 
-# Installation
+pkg install python
 
+pip install requests
 
-- `rm -rf FILE-CLONE`
+pip install mechanize
 
-- `git clone https://github.com/SHADIN-143/FILE-CLONE.git`
+pip install bs4
 
-- `cd FILE-CLONE`
+pkg install git
 
-- `git pull`
+rm -rf FILE-CLONE
 
-- `python3 SHADIN.py`
+git clone https://github.com/SHADIN-143/FILE-CLONE.git
+
+cd FILE-CLONE
+
+git pull
+
+python3 SHADIN.py
+```
+Note: (This Tools Are Paid)
+
+![<a href="https://ibb.co/dLKcLVZ"><img src="https://i.ibb.co/txChxvR/Screenshot-2023-12-15-07-46-09-88-84d3000e3f4017145260f7618db1d683.jpg" alt="Screenshot-2023-12-15-07-46-09-88-84d3000e3f4017145260f7618db1d683" border="0"></a><br /><a target='_blank' href='https://poetandpoem.com/Franz-Werfel/poems'>franz werfel poems</a><br />)
