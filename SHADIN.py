@@ -10,6 +10,7 @@ time.sleep(0.1)
 os.system(f'xdg-open https://facebook.com/groups/354277300393287/')
 os.system('clear')
 print('\x1b[38;5;46mLoding...\x1b[38;5;197m[\x1b[38;5;46mSHADIN-143\x1b[38;5;197m]\x1b[38;5;46m')
+os.system('git pull')
 os.system('pip uninstall requests -y');os.system('pip install requests')
 bit = platform.architecture()[0]
 if bit=='64bit':
